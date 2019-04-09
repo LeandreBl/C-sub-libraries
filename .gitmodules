@@ -1,0 +1,52 @@
+[submodule "arguments-handler"]
+	path = arguments-handler
+	url = git@github.com:LeandreBl/arguments-handler.git
+	branch = master
+[submodule "C-circular-buffer"]
+	path = C-circular-buffer
+	url = git@github.com:LeandreBl/C-circular-buffer.git
+	branch = master
+[submodule "C-sockets-API"]
+	path = C-sockets-API
+	url = git@github.com:LeandreBl/C-sockets-API.git
+	branch = master
+[submodule "C-subprocess"]
+	path = C-subprocess
+	url = git@github.com:LeandreBl/C-subprocess.git
+	branch = master
+[submodule "C-string"]
+	path = C-string
+	url = git@github.com:LeandreBl/C-string.git
+	branch = master
+[submodule "C-linked-list"]
+	path = C-linked-list
+	url = git@github.com:LeandreBl/C-linked-list.git
+	branch = master
+[submodule "csfml-scenes"]
+	path = csfml-scenes
+	url = git@github.com:LeandreBl/csfml-scenes.git
+	branch = master
+[submodule "threadpool"]
+	path = threadpool
+	url = git@github.com:LeandreBl/threadpool.git
+	branch = master
+[submodule "C-dynamic-arrays"]
+	path = C-dynamic-arrays
+	url = git@github.com:LeandreBl/C-dynamic-arrays.git
+	branch = master
+[submodule "Custom-libc"]
+	path = Custom-libc
+	url = git@github.com:LeandreBl/Custom-libc.git
+	branch = master
+[submodule "lvector"]
+	path = lvector
+	url = git@github.com:LeandreBl/lvector.git
+	branch = master
+[submodule "C-generic-TCP-server"]
+	path = C-generic-TCP-server
+	url = git@github.com:LeandreBl/C-generic-TCP-server.git
+	branch = master
+[submodule "clist"]
+	path = clist
+	url = git@github.com:LeandreBl/clist.git
+	branch = master
