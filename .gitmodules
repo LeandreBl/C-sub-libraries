@@ -50,3 +50,6 @@
 	path = clist
 	url = git@github.com:LeandreBl/clist.git
 	branch = master
+[submodule "liboctopus"]
+	path = liboctopus
+	url = git@github.com:LeandreBl/liboctopus.git
