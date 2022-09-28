@@ -53,3 +53,12 @@
 [submodule "liboctopus"]
 	path = liboctopus
 	url = git@github.com:LeandreBl/liboctopus.git
+[submodule "buffered-socky"]
+	path = buffered-socky
+	url = git@github.com:LeandreBl/buffered-socky.git
+[submodule "socky"]
+	path = socky
+	url = git@github.com:LeandreBl/socky.git
+[submodule "buffy"]
+	path = buffy
+	url = git@github.com:LeandreBl/buffy.git
