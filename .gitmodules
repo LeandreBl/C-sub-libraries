@@ -62,3 +62,9 @@
 [submodule "buffy"]
 	path = buffy
 	url = git@github.com:LeandreBl/buffy.git
+[submodule "sigio"]
+	path = sigio
+	url = git@github.com:LeandreBl/sigio.git
+[submodule "bitstream-guacamole"]
+	path = bitstream-guacamole
+	url = git@github.com:LeandreBl/bitstream-guacamole.git
